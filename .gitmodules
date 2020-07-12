@@ -1,0 +1,18 @@
+[submodule "kubernetes"]
+	path = kubernetes
+	url = https://github.com/RuiHirano/simulation_kubernetes.git
+[submodule "api"]
+	path = api
+	url = https://github.com/RuiHirano/simulation_api.git
+[submodule "server"]
+	path = server
+	url = https://github.com/RuiHirano/simulation_server.git
+[submodule "provider"]
+	path = provider
+	url = https://github.com/RuiHirano/simulation_provider.git
+[submodule "cli"]
+	path = cli
+	url = https://github.com/RuiHirano/simulation_cli.git
+[submodule "util"]
+	path = util
+	url = https://github.com/RuiHirano/simulation_util.git
